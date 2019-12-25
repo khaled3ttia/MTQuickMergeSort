@@ -86,7 +86,7 @@ public class nMTQuickSort {
 
     }
 
-    /* You may define any new methods you want and may change this method */
+    /* starting point */
     void sort(int[] arr) {
 		//Get the number of elements we are trying to sort
 		int n = arr.length;
